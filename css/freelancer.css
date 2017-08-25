@@ -76,7 +76,8 @@ header {
     padding-bottom: 50px; }
   header img {
     display: block;
-    margin: 0 auto 20px; }
+    margin: 0 auto 20px;
+    border-radius: 25px;}
   header .intro-text .name {
     display: block;
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
